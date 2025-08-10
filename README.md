@@ -5,6 +5,7 @@ This repository contains idiomatic implementations of all 23 Gang of Four (GoF) 
 ## 📚 Categories
 
 - **Creational**
+    - Factory Method
 - **Structural**
 - **Behavioral**
 
