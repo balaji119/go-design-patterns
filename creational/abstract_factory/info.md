@@ -1,0 +1,1 @@
+This pattern can be used if family of related objects needs to be created. In factory methos pattern, it supports creation of only one object.

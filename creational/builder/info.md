@@ -1,0 +1,1 @@
+This patter will be useful to refactory a class having a complex constructor.
